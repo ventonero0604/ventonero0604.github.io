@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Akira Nagamine</title>
+    <link>https://ventonero0604.github.io/authors/</link>
+      <atom:link href="https://ventonero0604.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://ventonero0604.github.io/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://ventonero0604.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://ventonero0604.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ventonero0604.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;古着のオンラインショップの運営を経てスキルを学んだ後、フリーランスでいくつかのHP制作案件を対応。前職は制作会社でサントリー、コカコーラ、goodyear等のプロモーション案件の制作、ディレクションを担当。現職では4年程度Webデザイナーとして主にコーディングを担当、その後プロジェクトマネージャーやデザインチームのリーダーを任される。&lt;/p&gt;
+
+&lt;p&gt;最近はReact/Redux/Typescriptを勉強中。UI/デザインの経験がコーディングの経験に比べると乏しいので、sketch/figma/zeplin等利用した今時のUIデザイン作成も学んでいく予定。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
